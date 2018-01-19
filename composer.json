@@ -1,0 +1,18 @@
+ {
+    "name": "aliyun/oss",
+    "description": "aliyun oss",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lihaijiang",
+            "email": "li_haij@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+	"psr-4"{
+	    "Aliyun\\Oss\\": "src/"
+	}
+    }
+}
